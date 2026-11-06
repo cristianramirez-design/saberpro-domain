@@ -6,6 +6,8 @@ Docente: Ing. Paola Andrea Bedoya Toro
 Módulo de dominio del Banco de Preguntas Saber PRO implementado con Domain-Driven Design
 en **Java 17 puro**: sin Spring, sin JPA y sin ninguna otra dependencia de framework.
 
+Repositorio: <https://github.com/cristianramirez-design/saberpro-domain>
+
 ## Grupo 4
 
 | | Integrante |
@@ -13,8 +15,6 @@ en **Java 17 puro**: sin Spring, sin JPA y sin ninguna otra dependencia de frame
 | 1 | Santiago Martinez |
 | 2 | Andres Felipe Florin |
 | 3 | Cristian Camilo Ramirez Camacho |
-
-Grupo de 3 integrantes, autorizado por la docente.
 
 ## Estructura
 
