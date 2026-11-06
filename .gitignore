@@ -1,0 +1,23 @@
+# Compilados Java
+*.class
+target/
+out/
+build/
+bin/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/private/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Temporales de Office
+~$*.docx
+~$*.xlsx
